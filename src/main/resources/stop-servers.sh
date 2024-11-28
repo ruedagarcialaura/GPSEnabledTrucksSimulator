@@ -1,1 +1,1 @@
-docker-compose rm -fsv
+docker compose rm -fsv
